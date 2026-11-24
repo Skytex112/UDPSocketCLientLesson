@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSocketCLientLesson", "UDPSocketCLientLesson.csproj", "{D3B09085-248A-4BE1-A925-E8A8C1042F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B09085-248A-4BE1-A925-E8A8C1042F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B09085-248A-4BE1-A925-E8A8C1042F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B09085-248A-4BE1-A925-E8A8C1042F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B09085-248A-4BE1-A925-E8A8C1042F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E5B171-E34E-47F0-967E-17B57E5CBC3B}
+	EndGlobalSection
+EndGlobal
